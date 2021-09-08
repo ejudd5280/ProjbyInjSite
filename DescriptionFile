@@ -16,7 +16,5 @@
 		{ "type": "float", "index": 24, "name": "YProp", "min": 0, "max": 1 },
 		{ "type": "float", "index": 25, "name": "LAVProp", "min": 0, "max": 1 },
 	],
-	"sets": [
-		{ "format": "binary", "start": 1, "end": 16 }
-	]
+	"sets": [{ "format": "binary", "start": 1, "end": 16 }]
 }
