@@ -4,7 +4,7 @@
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
-	"meta": [
+	"meta":
 		{ "type": "id", "index": 0, "name": "Name" },
 		{ "type": "float", "index": 17, "name": "IntAProp", "min": 0, "max": 1 },
 		{ "type": "float", "index": 18, "name": "IcgsProp", "min": 0, "max": 1 },
@@ -15,6 +15,5 @@
 		{ "type": "float", "index": 23, "name": "SUVProp", "min": 0, "max": 1 },
 		{ "type": "float", "index": 24, "name": "YProp", "min": 0, "max": 1 },
 		{ "type": "float", "index": 25, "name": "LAVProp", "min": 0, "max": 1 },
-	],
 	"sets": {"format": "binary", "start": 1, "end": 16}
 }
