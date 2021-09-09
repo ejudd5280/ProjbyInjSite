@@ -6,17 +6,24 @@
 	"skip": 0,
 	"meta":[
 		{ "type": "id", "index": 0, "name": "Name" },
-		{ "type": "float", "index": 17, "name": "IntAProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 18, "name": "IcgsProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 19, "name": "IntPProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 20, "name": "LNProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 21, "name": "MNProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 22, "name": "PBProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 23, "name": "SUVProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 24, "name": "YProp", "min": 0, "max": 1 },
-		{ "type": "float", "index": 25, "name": "LAVProp", "min": 0, "max": 1 }
-		],
-	"sets": [{"format": "binary", "start": 1, "end": }]
-}
+		{ "type": "float", "index": 17, "name": "IO", "min": 0, "max": 4 },
+		{ "type": "float", "index": 18, "name": "PG", "min": 0, "max": 4 },
+		{ "type": "float", "index": 19, "name": "SUV", "min": 0, "max": 4 },
+		{ "type": "float", "index": 20, "name": "PB", "min": 0, "max": 4 },
+		{ "type": "float", "index": 21, "name": "RN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 22, "name": "PRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 23, "name": "PAG", "min": 0, "max": 4 },
+		{ "type": "float", "index": 24, "name": "SPVi", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "LRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "GRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "IRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "V", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "III", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "XII", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "MRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "ECU", "min": 0, "max": 4 }
 
-IO,PG,SUV,PB,RN,PRN,PAG,SPVi,LRN,GRN,IRN,V,III,XII,MRN,ECU
+
+],
+	"sets": [{"format": "binary", "start": 1, "end":10}]
+}
