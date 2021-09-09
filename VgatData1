@@ -1,4 +1,4 @@
-Specimen,IO,PG,SUV,PB,RN,PRN,PAG,SPVi,LRN,GRN,IRN,V,III,XII,MRN,ECU,IntAProp,IcgsProp,IntPProp,LNProp,MNProp,PBProp,SUVProp,YProp,LAVProp
+Specimen,IntAProp,IcgsProp,IntPProp,LNProp,MNProp,PBProp,SUVProp,YProp,LAVProp,IO,PG,SUV,PB,RN,PRN,PAG,SPVi,LRN,GRN,IRN,V,III,XII,MRN,ECU
 Sp1,1,0,0,0,0,0,0,0,0,4,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0
 Sp2,1,1,0,1,0,0,0,0,0,4,2,1,1,1,1,1,1,1,0,0,0,0,0,0,0
 Sp3,1,1,1,0,1,1,1,0,0,4,3,3,2,2,1,1,2,1,2,2,2,1,2,0,3
