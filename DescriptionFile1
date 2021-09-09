@@ -1,0 +1,22 @@
+{
+	"file": "https://raw.githubusercontent.com/ejudd5280/ProjbyInjSite/main/VgatData1",
+	"name": "VgatData1",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta":[
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "float", "index": 17, "name": "IntAProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 18, "name": "IcgsProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 19, "name": "IntPProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 20, "name": "LNProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 21, "name": "MNProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 22, "name": "PBProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 23, "name": "SUVProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 24, "name": "YProp", "min": 0, "max": 1 },
+		{ "type": "float", "index": 25, "name": "LAVProp", "min": 0, "max": 1 }
+		],
+	"sets": [{"format": "binary", "start": 1, "end": }]
+}
+
+IO,PG,SUV,PB,RN,PRN,PAG,SPVi,LRN,GRN,IRN,V,III,XII,MRN,ECU
