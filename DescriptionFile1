@@ -6,24 +6,24 @@
 	"skip": 0,
 	"meta":[
 		{ "type": "id", "index": 0, "name": "Name" },
-		{ "type": "float", "index": 11, "name": "IO", "min": 0, "max": 4 },
-		{ "type": "float", "index": 12, "name": "PG", "min": 0, "max": 4 },
-		{ "type": "float", "index": 13, "name": "SUV", "min": 0, "max": 4 },
-		{ "type": "float", "index": 14, "name": "PB", "min": 0, "max": 4 },
-		{ "type": "float", "index": 15, "name": "RN", "min": 0, "max": 4 },
-		{ "type": "float", "index": 16, "name": "PRN", "min": 0, "max": 4 },
-		{ "type": "float", "index": 17, "name": "PAG", "min": 0, "max": 4 },
-		{ "type": "float", "index": 18, "name": "SPVi", "min": 0, "max": 4 },
-		{ "type": "float", "index": 19, "name": "LRN", "min": 0, "max": 4 },
-		{ "type": "float", "index": 20, "name": "GRN", "min": 0, "max": 4 },
-		{ "type": "float", "index": 21, "name": "IRN", "min": 0, "max": 4 },
-		{ "type": "float", "index": 22, "name": "V", "min": 0, "max": 4 },
-		{ "type": "float", "index": 23, "name": "III", "min": 0, "max": 4 },
-		{ "type": "float", "index": 24, "name": "XII", "min": 0, "max": 4 },
-		{ "type": "float", "index": 25, "name": "MRN", "min": 0, "max": 4 },
-		{ "type": "float", "index": 26, "name": "ECU", "min": 0, "max": 4 }
+		{ "type": "float", "index": 10, "name": "IO", "min": 0, "max": 4 },
+		{ "type": "float", "index": 11, "name": "PG", "min": 0, "max": 4 },
+		{ "type": "float", "index": 12, "name": "SUV", "min": 0, "max": 4 },
+		{ "type": "float", "index": 13, "name": "PB", "min": 0, "max": 4 },
+		{ "type": "float", "index": 14, "name": "RN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 15, "name": "PRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 16, "name": "PAG", "min": 0, "max": 4 },
+		{ "type": "float", "index": 17, "name": "SPVi", "min": 0, "max": 4 },
+		{ "type": "float", "index": 18, "name": "LRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 19, "name": "GRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 20, "name": "IRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 21, "name": "V", "min": 0, "max": 4 },
+		{ "type": "float", "index": 22, "name": "III", "min": 0, "max": 4 },
+		{ "type": "float", "index": 23, "name": "XII", "min": 0, "max": 4 },
+		{ "type": "float", "index": 24, "name": "MRN", "min": 0, "max": 4 },
+		{ "type": "float", "index": 25, "name": "ECU", "min": 0, "max": 4 }
 
 
 ],
-	"sets": [{"format": "binary", "start": 1, "end":10}]
+	"sets": [{"format": "binary", "start": 1, "end":9}]
 }
